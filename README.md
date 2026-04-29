@@ -1,4 +1,4 @@
-# ₊✩‧₊˚౨ৎ˚₊✩‧₊  Persona-Based AI Chatbot ₊✩‧₊˚౨ৎ˚₊✩‧₊
+# ₊✩‧₊  Persona-Based AI Chatbot ₊✩‧₊
 
 A full-stack, persona-driven AI chatbot where users can interact with different tech leaders — each with a distinct thinking style, tone, and approach.
 
@@ -89,7 +89,7 @@ npm install
 npm run dev
 ```
 
-App runs at:http://localhost:5173
+App runs at:  http://localhost:5173
 ---
 
 ## ❀ How It Works
