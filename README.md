@@ -59,7 +59,7 @@ Users can switch between personas and experience how the same question gets answ
 
 ## ⚙ Setup Instructions
 
-### 1 Backend Setup
+### 1. Backend Setup
 
 ```bash
 cd backend
@@ -81,7 +81,7 @@ node index.js
 npm start
 ```
 
-### 2 Frontend Setup
+### 2. Frontend Setup
 
 ```bash
 cd frontend
@@ -126,7 +126,7 @@ App runs at:  http://localhost:5173
 - ☆ Mobile UI optimization
 
 ---
-## ᥬᩤ Live Demo
+## .✦ ݁˖ Live Demo
 
 ➢ https://persona-based-ai-chatbot-three.vercel.app/
 
