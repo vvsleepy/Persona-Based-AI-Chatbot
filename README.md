@@ -1,4 +1,4 @@
-# ⭑.ᐟ Persona-Based AI Chatbot
+# ₊✩‧₊˚౨ৎ˚₊✩‧₊  Persona-Based AI Chatbot ₊✩‧₊˚౨ৎ˚₊✩‧₊
 
 A full-stack, persona-driven AI chatbot where users can interact with different tech leaders — each with a distinct thinking style, tone, and approach.
 
@@ -18,16 +18,16 @@ Users can switch between personas and experience how the same question gets answ
 
 ## ｡𖦹°‧ Features
 
-- 🎭 **Persona Switching** — Dynamically switch between 3 AI personalities
-- 💬 **Modern Chat UI** — Clean, aesthetic interface with pastel theme
-- ⚡ **Real-time Responses** — Powered by Gemini API
-- 🧠 **Contextual Suggestions** — Smart prompts to guide conversations
-- ✨ **Markdown Rendering** — Structured and readable AI responses
-- ⏳ **Typing Indicators** — Smooth chat experience
+- ☆ **Persona Switching** — Dynamically switch between 3 AI personalities
+- ☆ **Modern Chat UI** — Clean, aesthetic interface with pastel theme
+- ☆ **Real-time Responses** — Powered by Gemini API
+- ☆ **Contextual Suggestions** — Smart prompts to guide conversations
+- ☆ **Markdown Rendering** — Structured and readable AI responses
+- ☆ **Typing Indicators** — Smooth chat experience
 
 ---
 
-## 🛠 Tech Stack
+## ⚒ Tech Stack
 
 | Layer    | Technology                        |
 | -------- | --------------------------------- |
@@ -57,9 +57,9 @@ Users can switch between personas and experience how the same question gets answ
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙ Setup Instructions
 
-### 1️⃣ Backend Setup
+### 1 Backend Setup
 
 ```bash
 cd backend
@@ -81,7 +81,7 @@ node index.js
 npm start
 ```
 
-### 2️⃣ Frontend Setup
+### 2 Frontend Setup
 
 ```bash
 cd frontend
@@ -104,14 +104,14 @@ App runs at:http://localhost:5173
 
 ## ❀ UI Highlights
 
-- Soft pastel pink aesthetic 🎀
+- Soft pastel pink aesthetic 𐙚
 - Rounded chat bubbles & smooth animations
 - Glassmorphism-inspired layout
 - Clean and distraction-free design
 
 ---
 
-## ⚠️ Notes
+## ⚠ Notes
 
 - Gemini API may occasionally return 503 (high demand) errors
 - Retry logic is implemented to handle temporary failures
@@ -120,13 +120,14 @@ App runs at:http://localhost:5173
 
 ## 𐙚 Future Improvements
 
-- 🔁 Streaming responses (like ChatGPT)
-- 🧠 Memory-based conversations
-- 👤 Persona avatars & animations
-- 📱 Mobile UI optimization
+- ☆ Streaming responses (like ChatGPT)
+- ☆ Memory-based conversations
+- ☆ Persona avatars & animations
+- ☆ Mobile UI optimization
 
 ---
 
-## 🤝 Contributing
+## 𑣲 Created by:
+- Ankita Tripathi 
+- 24bcs10062
 
-Feel free to fork, improve, and experiment with new personas or UI enhancements!
