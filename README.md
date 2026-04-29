@@ -1,10 +1,10 @@
-# ✨ Persona-Based AI Chatbot
+# ⭑.ᐟ Persona-Based AI Chatbot
 
 A full-stack, persona-driven AI chatbot where users can interact with different tech leaders — each with a distinct thinking style, tone, and approach.
 
 ---
 
-## 💡 Overview
+## ｡𖦹°‧ Overview
 
 This project simulates conversations with three unique tech personas:
 
@@ -16,7 +16,7 @@ Users can switch between personas and experience how the same question gets answ
 
 ---
 
-## 🚀 Features
+## ｡𖦹°‧ Features
 
 - 🎭 **Persona Switching** — Dynamically switch between 3 AI personalities
 - 💬 **Modern Chat UI** — Clean, aesthetic interface with pastel theme
@@ -37,21 +37,21 @@ Users can switch between personas and experience how the same question gets answ
 
 ---
 
-## 📸 Screenshots
+## ⋆.📷˚ Screenshots
 
-### 🧠 Abhimanyu Saxena (Systems Thinking)
+### ۶ৎ Abhimanyu Saxena (Systems Thinking)
 
 ![Abhimanyu Chat](./assets/abhimanyu.png)
 
 ---
 
-### 🎯 Anshuman Singh (Career-Focused)
+### ۶ৎ Anshuman Singh (Career-Focused)
 
 ![Anshuman Chat](./assets/anshuman.png)
 
 ---
 
-### 📚 Kshitij Mishra (Fundamentals-First)
+### ۶ৎ Kshitij Mishra (Fundamentals-First)
 
 ![Kshitij Chat](./assets/kshitij.png)
 
@@ -92,7 +92,7 @@ npm run dev
 App runs at:http://localhost:5173
 ---
 
-## 🧪 How It Works
+## ❀ How It Works
 
 1. User sends a message
 2. Frontend sends request to backend
@@ -102,7 +102,7 @@ App runs at:http://localhost:5173
 
 ---
 
-## 🎨 UI Highlights
+## ❀ UI Highlights
 
 - Soft pastel pink aesthetic 🎀
 - Rounded chat bubbles & smooth animations
@@ -118,7 +118,7 @@ App runs at:http://localhost:5173
 
 ---
 
-## 🌐 Future Improvements
+## 𐙚 Future Improvements
 
 - 🔁 Streaming responses (like ChatGPT)
 - 🧠 Memory-based conversations
