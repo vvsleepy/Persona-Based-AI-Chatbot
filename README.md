@@ -126,6 +126,11 @@ App runs at:  http://localhost:5173
 - ☆ Mobile UI optimization
 
 ---
+## ᥬᩤ Live Demo
+
+➢ https://persona-based-ai-chatbot-three.vercel.app/
+
+---
 
 ## 𑣲 Created by:
 - Ankita Tripathi 
