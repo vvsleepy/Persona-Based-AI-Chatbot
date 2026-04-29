@@ -1,0 +1,79 @@
+/* 🌸 Chat bubble animation */
+.chat-bubble {
+  animation: fadeIn 0.3s ease;
+}
+
+/* ✨ Buttons feel premium */
+button {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+button:hover {
+  transform: translateY(-1px);
+}
+
+/* 💬 Input focus glow */
+input:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(236, 72, 153, 0.3);
+  border-color: #ec4899;
+}
+
+/* 🎀 Card feel */
+.card {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  border: 1px solid #fbcfe8;
+  box-shadow: 0 10px 25px rgba(236, 72, 153, 0.1);
+}
+
+/* 💖 Active tab */
+.tab-active {
+  background: #ec4899;
+  color: white;
+  box-shadow: 0 4px 10px rgba(236, 72, 153, 0.3);
+}
+
+/* 🌷 Inactive tab */
+.tab-inactive {
+  background: #fbcfe8;
+  color: #be185d;
+}
+
+/* ✨ Subtle divider */
+.divider {
+  border-top: 1px solid #fbcfe8;
+}
+
+/* 🌸 Fade animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 💫 Scrollbar aesthetic */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff1f5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f9a8d4;
+  border-radius: 10px;
+}
+
+/* 🧁 Placeholder text */
+::placeholder {
+  color: #f472b6;
+}
